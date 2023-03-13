@@ -1,7 +1,7 @@
 {
-    "name": "uikit",
-    "title": "UIkit",
-    "description": "UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+    "name": "steos-uikit",
+    "title": "Steos UIkit",
+    "description": "Steos UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
     "version": "3.14.3",
     "main": "dist/js/uikit.js",
     "style": "dist/css/uikit.css",
@@ -26,11 +26,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/uikit/uikit.git"
+        "url": "git+https://github.com/saspovych/steos-uikit.git"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/uikit/uikit/issues"
+        "url": "https://github.com/saspovych/steos-uikit/issues"
     },
     "homepage": "https://getuikit.com",
     "devDependencies": {
